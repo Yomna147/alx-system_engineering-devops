@@ -1,2 +1,2 @@
 #!/bin/bash
-last -1 iacta
+last -1 < iacta
